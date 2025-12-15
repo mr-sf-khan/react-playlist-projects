@@ -13,18 +13,18 @@ The projects progress from basic to slightly advanced levels and focus on writin
 
 The projects in this repository are organized **topic-by-topic in a sequential learning order**, exactly as covered in the playlist.
 
-1. React project setup and folder structure
-2. JSX basics and rendering elements
-3. Functional components
-4. Component reusability
-5. Props and data passing
-6. useState hook (state management)
-7. Event handling in React
-8. Conditional rendering
-9. useEffect hook (side effects)
-10. Basic routing concepts
-11. Simple UI-based projects
-12. Combining multiple concepts in small projects
+. React project setup and folder structure
+. JSX basics and rendering elements
+. Functional components
+. Component reusability
+. Props and data passing
+. useState hook (state management)
+. Event handling in React
+. Conditional rendering
+. useEffect hook (side effects)
+. Basic routing concepts
+. Simple UI-based projects
+. Combining multiple concepts in small projects
 
 Each topic builds upon the previous one to ensure a clear and structured understanding of React fundamentals.
 
