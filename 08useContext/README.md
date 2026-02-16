@@ -29,5 +29,3 @@ This project demonstrates modern React development practices including functiona
 
 ---
 
-## 📂 Project Structure
-
