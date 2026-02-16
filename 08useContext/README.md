@@ -5,30 +5,29 @@ This project demonstrates core React concepts including component architecture, 
 
 🚀 Features
 
-Add new todos
-Edit existing todos
-Delete todos
-Mark todos as completed
-Persistent storage using localStorage
-Clean and responsive UI
-Context API for global state management
+Add new todos, 
+Edit existing todos, 
+Delete todos, 
+Mark todos as completed, 
+Persistent storage using localStorage, 
+Clean and responsive UI, 
+Context API for global state management. 
 
 🛠 Tech Stack
 
-React (Functional Components)
-React Hooks (useState, useEffect)
-Context API
-JavaScript (ES6+)
-Tailwind CSS (for styling)
-Vite (build tool)
+React (Functional Components), 
+React Hooks (useState, useEffect), 
+Context API, 
+JavaScript (ES6+), 
+Tailwind CSS (for styling), 
+Vite (build tool), 
 
 🧠 Concepts Practiced
 
 State management
-Lifting state up
-Context Provider pattern
-Immutable state updates
-Local storage integration
-Component reusability
-
-Conditional rendering
+Lifting state up, 
+Context Provider pattern, 
+Immutable state updates, 
+Local storage integration, 
+Component reusability, 
+Conditional rendering.
