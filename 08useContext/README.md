@@ -26,6 +26,5 @@ This project demonstrates modern React development practices including functiona
 - JavaScript (ES6+)
 - Tailwind CSS
 - Vite
-
----
+  
 
